@@ -1,0 +1,25 @@
+.recaptcha-image {
+  padding: 0.25rem;
+  background-color: #f8fafc;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+
+  &.active {
+    background: limegreen;
+    opacity: 0.5;
+    transition: opacity 0.25s ease-in;
+  }
+
+  @media screen and (max-width: 800px) {
+    width: 90px;
+    height: 90px;
+  }
+}
+
+.recaptcha-container {
+  width: 467px; // 32
+
+  @media screen and (max-width: 800px) {
+    width: 300px;
+  }
+}
