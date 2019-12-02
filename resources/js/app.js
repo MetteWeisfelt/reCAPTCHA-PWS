@@ -14,7 +14,6 @@ require('bootstrap-table/dist/bootstrap-table.min.js');
 require('bootstrap-table/dist/extensions/auto-refresh/bootstrap-table-auto-refresh.min.js');
 require('bootstrap-table/dist/extensions/key-events/bootstrap-table-key-events.min.js');
 require('bootstrap-table/dist/extensions/sticky-header/bootstrap-table-sticky-header.min.js');
-require('bootstrap-table/dist/extensions/multiple-search/bootstrap-table-multiple-search.min.js');
 require('bootstrap-table/dist/extensions/reorder-columns/bootstrap-table-reorder-columns.min.js');
 
 // Custom JS
