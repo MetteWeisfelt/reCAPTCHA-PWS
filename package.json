@@ -24,6 +24,6 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "bootstrap-table": "^1.14.2"
+        "bootstrap-table": "^1.20.2"
     }
 }
